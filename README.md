@@ -4,7 +4,7 @@ This is a bank simulator program written in Java, it simulates a financial trans
 deposit, withdraw, and transfer money between accounts. The program reads the accounts from a json file and generates a transaction log 
 file depending on the options selected.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://drive.google.com/file/d/1bcU0Ug1RwSy0pJ6pxRXZi6miRvQbjNja/view?usp=sharing)
 
 # Development Environment
 
